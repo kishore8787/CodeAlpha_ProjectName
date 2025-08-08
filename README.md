@@ -1,7 +1,7 @@
 # 💻 Code Alpha - Java Programming Internship
 
-This repository contains tasks completed as part of the **Java Programming Internship** offered by **Code Alpha**.  
-Each task demonstrates core Java programming concepts such as OOP, data handling, user interaction, and logical structuring.
+This repository contains Java projects completed as part of the **Java Programming Internship** offered by **Code Alpha**.  
+Each task demonstrates core Java programming concepts such as OOP, data handling, user interaction, and real-world system simulations.
 
 ---
 
@@ -17,6 +17,22 @@ A simple Java application that allows teachers to:
 - Dynamic grade input for multiple students
 - Real-time calculation of statistics
 - Console-based user interface
+
+---
+
+## 📈 Task 2: Stock Trading Platform
+
+Simulates a basic stock trading environment where users can:
+
+- View real-time market data
+- Buy and sell stocks
+- Track portfolio performance
+
+🔧 **Features:**
+- Market data display (mocked for simulation)
+- Buy/Sell operations with user input
+- Portfolio tracking with current holdings and values
+- Console-based trading interface
 
 ---
 
@@ -41,7 +57,8 @@ Users can search for available rooms, make bookings, and manage check-ins and ch
   - Object-Oriented Programming (OOP)  
   - Arrays and ArrayLists  
   - Conditional logic and loops  
-  - Input handling using Scanner
+  - User input handling using `Scanner`  
+  - Console-based interactions
 
 ---
 
@@ -56,6 +73,7 @@ Users can search for available rooms, make bookings, and manage check-ins and ch
 
 3. Compile and run each task’s `.java` file:
    - `StudentGradeTracker.java`
+   - `StockTradingPlatform.java`
    - `HotelReservationSystem.java`
 
 ---
